@@ -1,0 +1,7 @@
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\bin\Debug\Mpage2_Battleship.exe.config
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\bin\Debug\Mpage2_Battleship.exe
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\bin\Debug\Mpage2_Battleship.pdb
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\obj\Debug\Mpage2_Battleship.csproj.AssemblyReference.cache
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\obj\Debug\Mpage2_Battleship.csproj.CoreCompileInputs.cache
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\obj\Debug\Mpage2_Battleship.exe
+D:\Desktop\CS3020\Mpage2_Assignment1\Mpage2_Battleship\obj\Debug\Mpage2_Battleship.pdb
